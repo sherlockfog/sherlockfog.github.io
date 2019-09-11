@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: SherlockFog
+description: |
+    SherlockFog is a tool aimed at network researchers that allows arbitrary topologies to be deployed
+    on a local network in order to execute parallel and distributed applications under different network
+    contitions.
+
+show_downloads: true
