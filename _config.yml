@@ -6,4 +6,9 @@ description: |
     on a local network in order to execute parallel and distributed applications under different network
     contitions.
 
-show_downloads: true
+github:
+    is_project_page: true
+    repository_name: SherlockFog
+    repository_url: https://github.com/sherlockfog/sherlockfog/
+    owner_name: Maximiliano Geier
+    owner_url: http://github.com/dergeier
